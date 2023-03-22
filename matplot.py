@@ -26,3 +26,7 @@ plt.show()
 
 
 print(len(gdp_cap))
+
+
+# https://www.youtube.com/watch?v=NmC0GtHj_4w&ab_channel=DThompsonDev
+#link for gitub learning
